@@ -242,9 +242,9 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 **[Live Lecture](https://youtu.be/pZ5Sm2yUfzo)**
 
-<!-- [Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text) -->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
 
 #### Notes
 
@@ -294,7 +294,7 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
 
-<!-- [Solutions](https://codepen.io/FullstackAcademy/pen/dmMOEy?editors=0010) -->
+[Solutions](https://codepen.io/FullstackAcademy/pen/dmMOEy?editors=0010)
 
 ### Notes
 
