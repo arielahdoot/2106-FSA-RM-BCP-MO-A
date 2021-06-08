@@ -2,7 +2,7 @@
 
 Hello! This is where Ariel and Noor will put all the material for BCP. If any of the links don't work don't hesitate to slack us and let us know.
 
-[![Run on Repl.it](https://repl.it/badge/github/arielahdoot/2103-FSA-NY-BCP-MO)](https://repl.it/github/arielahdoot/2103-FSA-NY-BCP-MO)
+[![Run on Repl.it](https://repl.it/badge/github/arielahdoot/2106-FSA-RM-BCP-MO-A)](https://repl.it/github/arielahdoot/2106-FSA-RM-BCP-MO-A)
 
 ## Table of Contents
 
@@ -55,7 +55,7 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 ## **01 Introduction and Tidy Code**
 
-**[Live Lecture](https://youtu.be/wlGimjUdXLU)**
+**[Live Lecture](https://youtu.be/WIVoNPpUFrY)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
 
