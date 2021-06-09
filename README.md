@@ -70,7 +70,6 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 1. [Indenting](01-tidy-code/A-indenting.js)
 2. [Variable Names](01-tidy-code/B-variableNaming.js)
 
-<!--
 ## **02 Loops And Debugging**
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac571d2bd9f9e0004adb0a4/text)**
@@ -93,7 +92,7 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 4. [Continue Keyword](02-loops-and-debugging/D-continue.js)
 5. [Break Keyword](02-loops-and-debugging/E-break.js)
 
-## **03 Coercion and Truthiness**
+<!-- ## **03 Coercion and Truthiness**
 
 [Lecture Slides](03-type-coercion-and-truthiness/03-Coercion-and-Truthiness.pdf)
 
