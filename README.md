@@ -96,15 +96,13 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 [Lecture Slides](03-coercion-and-truthiness/Coercion-and-Truthiness.pdf)
 
-<!-- **[Live Lecture](https://youtu.be/xpZ2YougdR4)** -->
+**[Live Lecture](https://youtu.be/uRI-lSi1mik)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
-<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text) -->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)  
 
-<!-- 
-
-## **04 Caesar Cypher**
+<-- ## **04 Caesar Cypher**
 
 **[Live Lecture (Ariel)](https://youtu.be/x-QNu7aMUR0)**
 
