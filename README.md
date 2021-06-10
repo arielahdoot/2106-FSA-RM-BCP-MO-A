@@ -100,9 +100,9 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)  
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
 
-<-- ## **04 Caesar Cypher**
+<!-- ## **04 Caesar Cypher**
 
 **[Live Lecture (Ariel)](https://youtu.be/x-QNu7aMUR0)**
 
