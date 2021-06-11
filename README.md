@@ -96,34 +96,34 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 [Lecture Slides](03-coercion-and-truthiness/Coercion-and-Truthiness.pdf)
 
+Solution code from live review in `03-coercion-and-truthiness/review.js`
+
 <!-- **[Live Lecture](https://youtu.be/xpZ2YougdR4)** -->
-
-[Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
-
-<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text) -->
-
-<!-- 
-
-## **04 Caesar Cypher**
-
-**[Live Lecture (Ariel)](https://youtu.be/x-QNu7aMUR0)**
-
-**[Live Lecture (Harry)](https://youtu.be/tSrQhjOxDuM)**
-
-**[Live Review](https://youtu.be/wubQ1zoPOck)**
-
-[Lecture Slides](04-reacto/04.BCP-REACTO.pdf)
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
 
-### Notes
+--- *Live Review in next section (Caesar Cypher)* ---
+
+## **04 Caesar Cypher**
+
+**[Live Lecture (REACTO) and Live Review(Coercion and Truthiness)](https://youtu.be/jlNKcjhlIrE)**
+
+[Lecture Slides](04-reacto/04.BCP-REACTO.pdf)
+
+Solution code from live review in `04-reacto/review.js`
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
+
+<!-- ### Notes
 
 - [Our Caesar Cypher](https://codepen.io/habst/pen/yLVGmxo?editors=0010)
-- [Our vowelCount](https://repl.it/@hpr/WoozyParallelComputer#index.js)
+- [Our vowelCount](https://repl.it/@hpr/WoozyParallelComputer#index.js) -->
 
-## **05 Scope**
+<!-- ## **05 Scope**
 
 **[Live Lecture](https://youtu.be/I6miZcHa1ok)**
 
