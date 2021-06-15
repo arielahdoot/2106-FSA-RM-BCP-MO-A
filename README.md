@@ -7,18 +7,17 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 ## Table of Contents
 
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
-<!--
 2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Caesar Cypher](#04-caesar-cypher)
 5. [Scope](#05-scope)
-6. [Arrays I](#06-arrays-I)
-7. [Arrays II](#07-arrays-ii)
-8. [Sudoku Validator](#08-sudoku-validator)
-9. [Objects](#09-objects)
-10. [Recursion I](#10-recursion-i)
-11. [Recursion II](#11-recursion-ii)
-12. [Next Steps](#12-next-steps) -->
+<!--6. [Arrays I](#06-arrays-I)
+6. [Arrays II](#07-arrays-ii)
+7. [Sudoku Validator](#08-sudoku-validator)
+8. [Objects](#09-objects)
+9. [Recursion I](#10-recursion-i)
+10. [Recursion II](#11-recursion-ii)
+11. [Next Steps](#12-next-steps) -->
 
 ## Additional Resources
 
@@ -102,7 +101,7 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed5b/text)
 
---- *Link to live review in the next section (Caesar Cypher)* ---
+--- _Link to live review in the next section (Caesar Cypher)_ ---
 
 ## **04 Caesar Cypher**
 
@@ -121,9 +120,9 @@ Solution code from live review in `04-reacto/review.js`
 - [Our Caesar Cypher](https://codepen.io/habst/pen/yLVGmxo?editors=0010)
 - [Our vowelCount](https://repl.it/@hpr/WoozyParallelComputer#index.js) -->
 
-<!-- ## **05 Scope**
+## **05 Scope**
 
-**[Live Lecture](https://youtu.be/I6miZcHa1ok)**
+**[Live Lecture](https://youtu.be/0V_FkWZaNq8)**
 
 **[Scope Workshop Problems 4 & 5 Review](https://youtu.be/zxzapd17ThM)**
 
@@ -143,7 +142,7 @@ Solution code from live review in `04-reacto/review.js`
 6. [Hoisting](05-scope/F-hoisting.js)
 7. [Best Practices](05-scope/G-bestpract.js)
 
-## **06 Arrays I**
+<!-- ## **06 Arrays I**
 
 **[Live Lecture](https://youtu.be/ud4gLNoNyls)**
 
