@@ -122,7 +122,7 @@ Solution code from live review in `04-reacto/review.js`
 
 ## **05 Scope**
 
-**[Live Lecture](https://youtu.be/0V_FkWZaNq8)**
+**[Live Lecture](https://youtu.be/zjmWpFAjsZM)**
 
 **[Scope Workshop Problems 4 & 5 Review](https://youtu.be/zxzapd17ThM)**
 
