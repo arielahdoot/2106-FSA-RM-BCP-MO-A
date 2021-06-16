@@ -171,18 +171,18 @@ Solution code from live review in `04-reacto/review.js`
 13. [Array.includes()](06-arrays-I/M-array-includes.js)
 14. [Array.reverse()](06-arrays-I/N-array-reverse.js)
 
-<!-- ## **07 Arrays II**
+## **07 Arrays II**
 
-**[Lecture Slides](07-arrays-ii/07.Arrays-II.pdf)**
+**[Lecture Slides](07-arraysII/07.Arrays-II.pdf)**
 
-**[Live Lecture](https://youtu.be/f66IDYWItFo)**
-**[Review](https://youtu.be/vcfyj0IonYQ)**
+<!-- **[Live Lecture](https://youtu.be/f66IDYWItFo)**
+**[Review](https://youtu.be/vcfyj0IonYQ)** -->
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
+<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text) -->
 
-## **08 Sudoku Validator**
+<!-- ## **08 Sudoku Validator**
 
 **[Live Lecture](https://youtu.be/LtkzMMOMtBM)**
 
