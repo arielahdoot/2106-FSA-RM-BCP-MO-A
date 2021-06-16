@@ -11,13 +11,13 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Caesar Cypher](#04-caesar-cypher)
 5. [Scope](#05-scope)
-<!--6. [Arrays I](#06-arrays-I)
-6. [Arrays II](#07-arrays-ii)
-7. [Sudoku Validator](#08-sudoku-validator)
-8. [Objects](#09-objects)
-9. [Recursion I](#10-recursion-i)
-10. [Recursion II](#11-recursion-ii)
-11. [Next Steps](#12-next-steps) -->
+6. [Arrays I](#06-arrays-I)
+<!-- 7. [Arrays II](#07-arrays-ii)
+8. [Sudoku Validator](#08-sudoku-validator)
+9. [Objects](#09-objects)
+10. [Recursion I](#10-recursion-i)
+11. [Recursion II](#11-recursion-ii)
+12. [Next Steps](#12-next-steps) -->
 
 ## Additional Resources
 
@@ -142,9 +142,9 @@ Solution code from live review in `04-reacto/review.js`
 6. [Hoisting](05-scope/F-hoisting.js)
 7. [Best Practices](05-scope/G-bestpract.js)
 
-<!-- ## **06 Arrays I**
+## **06 Arrays I**
 
-**[Live Lecture](https://youtu.be/ud4gLNoNyls)**
+**[Live Lecture](https://youtu.be/LR6eUfXLQKY)**
 
 **[Live Solutions](https://youtu.be/tEVT4mS0-TQ)**
 
@@ -171,7 +171,7 @@ Solution code from live review in `04-reacto/review.js`
 13. [Array.includes()](06-arrays-I/M-array-includes.js)
 14. [Array.reverse()](06-arrays-I/N-array-reverse.js)
 
-## **07 Arrays II**
+<!-- ## **07 Arrays II**
 
 **[Lecture Slides](07-arrays-ii/07.Arrays-II.pdf)**
 
