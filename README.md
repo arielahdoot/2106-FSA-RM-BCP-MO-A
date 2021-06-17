@@ -175,12 +175,15 @@ Solution code from live review in `04-reacto/review.js`
 
 **[Lecture Slides](07-arraysII/07.Arrays-II.pdf)**
 
-<!-- **[Live Lecture](https://youtu.be/f66IDYWItFo)**
-**[Review](https://youtu.be/vcfyj0IonYQ)** -->
+**[Live Lecture](https://youtu.be/aqgc3tw5PvI)**
+
+**[Review](07-arraysII/solutions.js)** 
+
+**[extra topics](07-arraysII/notes.js)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
 
-<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text) -->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
 
 <!-- ## **08 Sudoku Validator**
 
