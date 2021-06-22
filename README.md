@@ -12,10 +12,10 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 4. [Caesar Cypher](#04-caesar-cypher)
 5. [Scope](#05-scope)
 6. [Arrays I](#06-arrays-I)
-<!-- 7. [Arrays II](#07-arrays-ii)
+7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
 9. [Objects](#09-objects)
-10. [Recursion I](#10-recursion-i)
+<!-- 10. [Recursion I](#10-recursion-i)
 11. [Recursion II](#11-recursion-ii)
 12. [Next Steps](#12-next-steps) -->
 
@@ -185,7 +185,7 @@ Solution code from live review in `04-reacto/review.js`
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
 
-<!-- ## **08 Sudoku Validator**
+## **08 Sudoku Validator**
 
 **[Live Lecture](https://youtu.be/LtkzMMOMtBM)**
 
@@ -254,7 +254,7 @@ Solution code from live review in `04-reacto/review.js`
 
 **[Live Lecture](https://youtu.be/pAtDHJs5bis)**
 
-## **10 Recursion I**
+<!-- ## **10 Recursion I**
 
 **[Live Lecture](https://youtu.be/Y7g_OUpRVDE)**
 
