@@ -231,16 +231,16 @@ Solution code from live review in `04-reacto/review.js`
 
 **[Live Lecture](https://youtu.be/pZ5Sm2yUfzo)**
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
+<!-- [Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text) -->
 
 #### Notes
 
 1. [What Are Methods](09-objects/N-whatisamethod.js)
 2. [Creating Methods](09-objects/O-createmethods.js)
 3. [this](09-objects/P-this.js)
-4. [Workshop Questions & Solutions](09-objects/Q-object-methods-workshop-and-solutions-links.md)
+# 4. [Workshop Questions & Solutions](09-objects/Q-object-methods-workshop-and-solutions-links.md)
 
 ## **Pass By Value, Pass By Reference - Optional Advanced Lecture 1**
 
