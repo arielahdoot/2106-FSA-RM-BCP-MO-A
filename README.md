@@ -203,7 +203,7 @@ Solution code from live review in `04-reacto/review.js`
 
 ## **09 Objects**
 
-**[Live Lecture](https://youtu.be/PgEoXb-LgFM)**
+**[Live Lecture](https://youtu.be/zmiCx3MrUow)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
