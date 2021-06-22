@@ -240,7 +240,7 @@ Solution code from live review in `04-reacto/review.js`
 1. [What Are Methods](09-objects/N-whatisamethod.js)
 2. [Creating Methods](09-objects/O-createmethods.js)
 3. [this](09-objects/P-this.js)
-# 4. [Workshop Questions & Solutions](09-objects/Q-object-methods-workshop-and-solutions-links.md)
+##### 4. [Workshop Questions & Solutions](09-objects/Q-object-methods-workshop-and-solutions-links.md)
 
 ## **Pass By Value, Pass By Reference - Optional Advanced Lecture 1**
 
