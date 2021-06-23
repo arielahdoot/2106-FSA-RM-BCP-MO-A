@@ -254,9 +254,9 @@ Solution code from live review in `04-reacto/review.js`
 
 **[Live Lecture](https://youtu.be/pAtDHJs5bis)**
 
-<!-- ## **10 Recursion I**
+## **10 Recursion I**
 
-**[Live Lecture](https://youtu.be/Y7g_OUpRVDE)**
+**[Live Lecture](https://youtu.be/wuoNJN-LlaE)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
 
@@ -266,14 +266,7 @@ Solution code from live review in `04-reacto/review.js`
 
 [Full Notes](10-recursion-i)
 
-1. [Definition of Recursion](10-recursion-i/A-definition.js)
-2. [The Call Stack](10-recursion-i/B-thecallstack.js)
-3. [Countdown](10-recursion-i/C-countdown.js)
-4. [Factorial](10-recursion-i/D-factorial.js)
-5. [Iterables](10-recursion-i/E-iterables.js)
-6. [Hints](10-recursion-i/F-hints.js)
-
-## **11 Recursion II**
+ <!-- ## **11 Recursion II** 
 
 [Lecture Slides](11-recursion-ii/11-Recursion-II.pdf)
 
