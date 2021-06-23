@@ -63,3 +63,38 @@ function makeGrid(cols, rows) {
   }
   return grid;
 }
+
+// solution1
+function myJoin(arr, sep = ",") {
+  let result = "";
+  for (let i = 0; i < arr.length; i++) {
+    result += arr[i] || ""; // short circuit
+    if (i === arr.length - 1) {
+      continue;
+    } else {
+      result += sep;
+    }
+  }
+  return result;
+}
+
+// solution2
+function myJoin(arr, sep) {
+  if (sep === undefined) {
+    sep = ",";
+  }
+  let result = "";
+  for (let i = 0; i < arr.length; i++) {
+    if (arr[i] === null || arr[i] === undefined) {
+      result += "";
+    } else {
+      result += arr[i];
+    }
+    if (i === arr.length - 1) {
+      continue;
+    } else {
+      result += sep;
+    }
+  }
+  return result;
+}
