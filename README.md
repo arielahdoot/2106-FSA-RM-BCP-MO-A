@@ -272,13 +272,11 @@ Solution code from live review in `04-reacto/review.js`
 
 [Lecture Slides](11-recursion-ii/recursion-ii.pdf)
 
-<!-- **[Solutions Video Part I](https://youtu.be/f_bqQlTNUgE)** -->
-
-<!-- **[Solutions Video Part II](https://youtu.be/K0EfF8RphX4)** -->
+**[Live Lecture](https://youtu.be/EChuj6BS9vk)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
 
-<!-- [Solutions](https://codepen.io/FullstackAcademy/pen/dmMOEy?editors=0010) -->
+[Solutions](https://codepen.io/FullstackAcademy/pen/dmMOEy?editors=0010)
 
 ### Notes
 
