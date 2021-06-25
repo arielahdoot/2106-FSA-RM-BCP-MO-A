@@ -287,4 +287,4 @@ Solution code from live review in `04-reacto/review.js`
 
 [Lecture Slides](12-next-steps/next-steps.pdf)
 
-**[Live Lecture](https://youtu.be/ymNBN2HWEso)**
+**[Live Lecture](https://youtu.be/Hx29z2bjK1A)**

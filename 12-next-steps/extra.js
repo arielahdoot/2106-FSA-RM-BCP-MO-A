@@ -33,3 +33,16 @@ function testTruthyArray(value) {
     // value should an instance of an array and have atleast one element in it
     return value ? (value.length === 1 ? value : null) : false;
 }
+
+function sortArrayByLengthASC(arr) {
+    return arr.sort((a, b) => a.length - b.length);
+}
+
+function sortArrayByLengthDESC(arr) {
+    return arr.sort((a, b) => b.length - a.length);
+}
+
+console.log(sortArrayByLengthASC(["victory", "noor"]));
+console.log(sortArrayByLengthDESC(["victory", "noor"]));
+
+console.log([1, 2, 3] === "1,2,3");
