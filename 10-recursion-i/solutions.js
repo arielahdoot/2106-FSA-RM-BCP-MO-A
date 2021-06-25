@@ -81,3 +81,70 @@ function countVowels(str) {
         }
     }
 }
+
+function countVowels(str) {
+    let vowels = "AEIOUaeiou";
+    if (str.length === 1) {
+        // stop condition
+        if (vowels.includes(str)) {
+            return 1;
+        } else {
+            return 0;
+        }
+    } else {
+        // recursive condition
+        let firstChar = str[0];
+        if (vowels.includes(firstChar)) {
+            return 1 + countVowels(str.slice(1));
+        } else {
+            return 0 + countVowels(str.slice(1));
+        }
+    }
+}
+
+console.log(countVowels("liat"));
+
+function countVowels(str) {
+    if (str.length === 1) {
+        // stop condition
+        if (isVowel(str)) {
+            return 1;
+        } else {
+            return 0;
+        }
+    } else {
+        // recursive condition
+        let firstChar = str[0];
+        let everythingExceptFirstChar = str.slice(1);
+        if (isVowel(firstChar)) {
+            return 1 + countVowels(everythingExceptFirstChar);
+        } else {
+            return 0 + countVowels(everythingExceptFirstChar);
+        }
+    }
+}
+
+function isVowel(char) {
+    let vowels = "AEIOUaeiou";
+    return vowels.includes(char);
+}
+
+/* if else syntax 
+for () {
+    if (condition) { 
+
+    } else if (condition){
+
+    } else { 
+
+    }
+} 
+
+
+if () {
+
+} else if () {
+
+} else {
+
+} */

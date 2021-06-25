@@ -38,6 +38,6 @@ console.log(pow(2, 3)); // 8
 
 // common base cases
 // num => 0 or 1
-// string => ""
-// object => {}
-// arrays => []
+// string => "" or str.length === 1
+// object => {} or object has one key in it
+// arrays => [] or array.length === 1

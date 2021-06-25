@@ -70,3 +70,33 @@ function getLongestName(family) {
     }
     return longestName;
 }
+
+function searchParty(name, world) {
+    for (let key in world) {
+        const value = world[key];
+        if (typeof value === "string") {
+            // value is a string
+            if (value === name) {
+                return [key];
+            } else {
+                continue;
+            }
+        } else if (Array.isArray(value)) {
+            // value is an array
+            if (value.includes(name)) {
+                return [key];
+            } else {
+                continue;
+            }
+        } else {
+            // value is an object
+            let incomingLocation = searchParty(name, value); // [..] or null
+            if (incomingLocation) {
+                return [key, ...incomingLocation];
+            } else {
+                continue;
+            }
+        }
+    }
+    return null;
+}
